@@ -1,0 +1,20 @@
+{
+    "program": [
+        {
+            "opcode": "LOAD_CONST",
+            "operand": 479
+        },
+        {
+            "opcode": "READ_MEM",
+            "operand": 662
+        },
+        {
+            "opcode": "WRITE_MEM",
+            "operand": 807
+        },
+        {
+            "opcode": "BITWISE_AND",
+            "operand": 564
+        }
+    ]
+}
